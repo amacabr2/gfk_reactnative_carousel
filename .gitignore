@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+npm-debug.*
+.babelrc
+.idea/
+.watchmanconfig
+yarn.lock
+components/movies/Alien
+components/movies/Goonies
+components/movies/Rio
+components/movies/index.js
