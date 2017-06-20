@@ -18,7 +18,7 @@ export default class MoviesCarousel extends React.Component {
     }
 
     showMovie(movie) {
-        alert(movoe.name);
+        alert(movie.name);
     }
 
     componentWillMount() {
